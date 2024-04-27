@@ -1,5 +1,6 @@
 package com.food.additives;
 
+import com.food.additives.item.ModCreativeTab;
 import com.food.additives.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.neoforged.bus.api.IEventBus;
@@ -19,6 +20,7 @@ public class FoodAdditives {
         modEventBus.addListener(this::commonSetup);
         NeoForge.EVENT_BUS.register(this);
         ModItems.register(modEventBus);
+        ModCreativeTab.register(modEventBus);
     }
 
     private void commonSetup(final FMLCommonSetupEvent event) {

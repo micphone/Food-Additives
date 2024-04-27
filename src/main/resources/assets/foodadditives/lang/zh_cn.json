@@ -3,5 +3,6 @@
   "item.foodadditives.salt" : "盐",
   "item.foodadditives.vegetableoil" : "植物油",
   "item.foodadditives.vinegar" : "醋",
-  "item.foodadditives.yeast" : "酵母"
+  "item.foodadditives.yeast" : "酵母",
+  "creativetab.food_additives" : "调味品"
 }

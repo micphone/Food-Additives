@@ -3,5 +3,6 @@
   "item.foodadditives.salt" : "Salt",
   "item.foodadditives.vegetableoil" : "Vegetable Oil",
   "item.foodadditives.vinegar" : "Vinegar",
-  "item.foodadditives.yeast" : "Yeast"
+  "item.foodadditives.yeast" : "Yeast",
+  "creativetab.food_additives" : "condiments"
 }
